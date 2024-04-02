@@ -31,7 +31,7 @@ $(document).ready(function () {
   });
   //animated typed init ------------------------
   new Typed('#typed-text', {
-    strings: ["Developer", "Photographer", "<span style='color:#ee9f2a'>Creator</span>"],
+    strings: ["Developer", "Photographer", "<span style='color:f'>Creator</span>"],
     typeSpeed: 50,
     backSpeed: 50,
     backDelay: 4000,

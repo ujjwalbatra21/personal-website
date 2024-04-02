@@ -1,19 +1,19 @@
 /* ----------------------------------------------------------------------------------------
-  TABLE OF CONTENT
-* ----------------------------------------------------------------------------------------
-* 01.BASE CSS
+ *  TABLE OF CONTENTS
+ *  ---------------------------------------------------------------------------------------
+ * 01.BASE CSS
     - preloader
-* 02.HEADER SECTION
+ * 02.HEADER SECTION
     - small menu
-* 03.HERO SECTION
-* 04.ABOUT SECTION
-* 05.WHAT I DO SECTION
-* 06.PORTFOLIO SECTION
-* 07.RESUME SECTION
-* 08.PARTNER SECTION
-* 09.CONTACT SECTION
-* 10.FOOTER SECTION
-*/
+ * 03.HERO SECTION
+ * 04.ABOUT SECTION
+ * 05.WHAT I DO SECTION
+ * 06.PORTFOLIO SECTION
+ * 07.RESUME SECTION
+ * 08.PARTNER SECTION
+ * 09.CONTACT SECTION
+ * 10.FOOTER SECTION
+ */
 
 /* ----------------------------------------------------------------------------------------
  * 01.BASE CSS
@@ -376,7 +376,7 @@ button.button-link {
 }
 .detail-herowrap h1 span.sec-word {
     display: inline-block;
-    color: #EE9F2A;
+    color: #D6A780;
 }
 .sec-detailherowrap {
     padding: 30px 5px 0 100px;
